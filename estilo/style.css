@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
 @font-face {
-    font-family: 'Android';
-    src: url('/estilo/idroid.otf') format('opentype');
+    font-family:'Android';
+    src: url('/fontes/idroid.otf') format('opentype');
     font-weight: normal;
 }
 
